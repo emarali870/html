@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title> New York City Top 10</title>
+
+</head>
+
+    <h1> New York City</h1>
+
+<hr>
+
+    <p>New York City is one of the most famous cities in the world, known for its fast pace, cultural diversity, towering skyline, and constant energy, where millions of people from different backgrounds live, work, and shape a city that feels active at every hour.
+<br>
+
+    <h2>About:</h2>
+
+<h3>Weather</h3>
+
+    <p>In New York City, the summers are warm and humid, the winters are very cold and windy, and it is wet and partly cloudy year round.</p>
+<h3>Locations!</h3>
+
+    <ul>
+
+<li>Statue Of Liberty</li>
+
+<li>Central Park</li>
+
+<li>Empire State Building</li>
+
+<li>Times Square</li>
+
+<li>Rockefeller Center</li>
+
+</ul>
+
+
+<h3>Top 10 places to see in NYC</h3>
+<table border="2">
+        <tr>
+            <th>Place</th>
+            <th>Image</th>
+            <th>Date Taken</th>
+        </tr>
+
+        <tr>
+            <td>Statue of Liberty</td>
+            <td>
+                <img src="Lady Liberty.Jpeg" width="400">
+            </td>
+            <td>January 15, 2024</td>
+        </tr>
+
+        <tr>
+            <td>Central Park</td>
+            <td>
+                <img src="Central Park.Jpeg" width="400">
+            </td>
+            <td>March 10, 2024</td>
+        </tr>
+
+        <tr>
+            <td>Empire State Building</td>
+            <td>
+                <img src="Empire State.Jpeg" width="400">
+            </td>
+            <td>April 19, 2025</td>
+        </tr>
+
+        <tr>
+            <td>Time Square</td>
+            <td>
+                <img src="Times Square.Jpeg" width="400">
+            </td>
+            <td>April 11, 2010</td>
+        </tr>
+        <tr>
+            <td>Rockefeller center</td>
+            <td>
+                <img src="Rockefeller.Jpeg" width="400">
+            </td>
+            <td>July 07, 2019</td>
+        </tr>
+      
+        </table>
+    <h3>Top 5 Wealthiest People in NYC</h3>
+     <ol>
+        <li>Michael Bloomberg ($109 Billion)</li>
+
+         <li>Julia Koch & family (81.2 Billion)</li>
+
+         <li>Stephen Schwarzman ($51.9 Billion)</li>
+
+        <li>Marilyn Simons & family ($32.5 Billion)</li>
+
+        <li>Rupert Murdoch & family ($24.1 Billion)</li>
+
+
+    </ol>
+
+    </p>    
+</body>
+
+</html>
